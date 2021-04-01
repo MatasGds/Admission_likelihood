@@ -1,6 +1,6 @@
 # Admission_likelihood
 
-Ordinary Least Squared estimation is used to evaluate the impact of students' academical achivements to the chance of admission to graduate school in India. Moreover, linear regression model is going to be utilized for the prediction of chance of admission given the information about the student.
+Ordinary Least Squared estimation is used to evaluate the impact of students' academical achivements on the chance of admission to graduate school in India. Moreover, linear regression model is going to be utilized for the prediction of chance of admission given the information about the student.
 
 The data consists of the following parameters:
 
