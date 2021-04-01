@@ -13,6 +13,7 @@ The data consists of the following parameters:
 7. Chance of Admit ( ranging from 0 to 1 )
 
 
-Acknowledgements
+Acknowledgements: 
+
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions,
 IEEE International Conference on Computational Intelligence in Data Science 2019
